@@ -1,6 +1,5 @@
 body {
   background-color: #3b4664;
-  
 }
 
 .app__wrapper {
@@ -9,5 +8,5 @@ body {
   justify-content: center;
   margin: auto;
   width: 450px;
-  height: 350px;
+  height: 100vh;
 }
